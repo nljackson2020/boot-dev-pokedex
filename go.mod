@@ -1,3 +1,3 @@
-module github.com/nljackson2020/pokedexcli
+module www.github.com/nljackson2020/boot-dev-pokedex
 
-go 1.21.3
+go 1.22.0
